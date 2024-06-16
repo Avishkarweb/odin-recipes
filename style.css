@@ -1,0 +1,21 @@
+*{
+    background-color: teal;
+}
+.recipes{
+    text-align: center;
+}
+.orderedList{
+    width: 120px;
+    height: 100px;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin: 0 auto;
+    
+}
+h1{
+    text-align: center;
+    color: yellow;
+}
+a{
+    color: red;
+}
